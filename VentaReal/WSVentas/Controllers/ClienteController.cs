@@ -79,7 +79,6 @@ namespace WSVentas.Controllers
                     db.SaveChanges();
                     oResponse.success = 1;
                     oResponse.data = cliente;
-                    // Algo debe Cambiar
                 }
 
             }catch(Exception e){
