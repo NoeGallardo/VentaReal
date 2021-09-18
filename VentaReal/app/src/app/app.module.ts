@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from './home/home.component';
 import { ClienteComponent } from './cliente/cliente.component';
-import { MatSidenavModule } from '@angular/material/sidenav'
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { UserComponent } from './user/user.component'
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    ClienteComponent
+    ClienteComponent,
+    UserComponent
   ],
   imports: [
     BrowserModule,

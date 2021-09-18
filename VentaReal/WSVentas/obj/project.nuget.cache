@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t4nswhLNdu56Tgw3EMe8og4yMaR9SWaGENrgYT9+kn/VFFrTt09goOw5tVcRLpeN848ydBlH/3IX2VFpAU+QVQ==",
+  "dgSpecHash": "LifUtGLK1Dm6VGF0k1ahv8bSudqRDCa7VB1KWHy2/bfVaPSes3WUV6N9Ew++XhMHvFnoyVcxGNGjNzNXxSTdZg==",
   "success": true,
-  "projectFilePath": "/home/noe_gallardo/MyCode/ProjectosCSharp/VentaReal/WSVentas/WSVentas.csproj",
+  "projectFilePath": "/home/noe_gallardo/MyCode/Projects-.NetCore/VentaReal/VentaReal/WSVentas/WSVentas.csproj",
   "expectedPackageFiles": [
     "/home/noe_gallardo/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/noe_gallardo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

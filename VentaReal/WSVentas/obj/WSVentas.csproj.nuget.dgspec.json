@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/noe_gallardo/MyCode/ProjectosCSharp/VentaReal/WSVentas/WSVentas.csproj": {}
+    "/home/noe_gallardo/MyCode/Projects-.NetCore/VentaReal/VentaReal/WSVentas/WSVentas.csproj": {}
   },
   "projects": {
-    "/home/noe_gallardo/MyCode/ProjectosCSharp/VentaReal/WSVentas/WSVentas.csproj": {
+    "/home/noe_gallardo/MyCode/Projects-.NetCore/VentaReal/VentaReal/WSVentas/WSVentas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/noe_gallardo/MyCode/ProjectosCSharp/VentaReal/WSVentas/WSVentas.csproj",
+        "projectUniqueName": "/home/noe_gallardo/MyCode/Projects-.NetCore/VentaReal/VentaReal/WSVentas/WSVentas.csproj",
         "projectName": "WSVentas",
-        "projectPath": "/home/noe_gallardo/MyCode/ProjectosCSharp/VentaReal/WSVentas/WSVentas.csproj",
+        "projectPath": "/home/noe_gallardo/MyCode/Projects-.NetCore/VentaReal/VentaReal/WSVentas/WSVentas.csproj",
         "packagesPath": "/home/noe_gallardo/.nuget/packages/",
-        "outputPath": "/home/noe_gallardo/MyCode/ProjectosCSharp/VentaReal/WSVentas/obj/",
+        "outputPath": "/home/noe_gallardo/MyCode/Projects-.NetCore/VentaReal/VentaReal/WSVentas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/noe_gallardo/.nuget/NuGet/NuGet.Config"
